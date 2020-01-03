@@ -5,7 +5,7 @@ public class HelloGit {
 		
 		int b = 2;
 		int a = 1;
-		int mas = 3;
+		int v2 = 3;
 		System.out.println("github");
 		
 	
